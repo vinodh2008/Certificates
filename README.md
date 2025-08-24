@@ -23,5 +23,5 @@ I am a **Diploma Computer Engineering student** passionate about **Networking, N
 ---
 
 ## 🔗 Connect With Me  
-- [LinkedIn](https://linkedin.com/)  
+- [LinkedIn](www.linkedin.com/in/vinodh-yemireddi-8b79522b9)  
 - [GitHub](https://github.com/vinodh2008)  
