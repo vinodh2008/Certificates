@@ -10,12 +10,12 @@ This repository contains my internship, training, and achievement certificates t
 
 ![Python Internship Certificate](Python_Internship_Certificate.png)  
 
-[🔗 View Certificate (PDF)]python-internship certificate.pdf
+[🔗 View Certificate (PDF)]python-internship certificate.pdf)
 
 ---
 
 ## 🚀 About Me  
-I am a **Diploma Computer Engineering student** passionate about **Networking, Network Automation, and Cloud Computing**.  
+I am a Diploma Computer Engineering student  passionate about Networking, Network Automation, and Cloud Computing.
 - 🌐 Learning networking (Packet Tracer, Cisco concepts)  
 - ⚡ Exploring Python for **automation & problem solving**  
 - 🎯 Goal: Become a **Network/Cloud Engineer**  
