@@ -10,7 +10,7 @@ This repository contains my internship, training, and achievement certificates t
 
 ![Python Internship Certificate](Python_Internship_Certificate.png)  
 
-[🔗 View Certificate (PDF)](Python_Internship_Certificate.pdf)  
+[🔗 View Certificate (PDF)] python-internship certificate.pdf
 
 ---
 
